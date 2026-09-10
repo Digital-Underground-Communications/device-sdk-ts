@@ -9,7 +9,7 @@ packages:
   - packages/trusted-apps/*
 
 catalog:
-  '@babel/core': ^7.25.2
+  '@babel/core': ^8.0.1
   '@babel/preset-env': ^7.25.3
   '@babel/runtime': ^7.28.3
   '@changesets/changelog-github': 0.5.1
@@ -58,7 +58,7 @@ catalog:
   '@types/uuid': ^10.0.0
   '@types/w3c-web-hid': ^1.0.6
   '@types/web-bluetooth': ^0.0.20
-  '@types/ws': ^8.5.14
+  '@types/ws': ^8.18.1
   '@vitejs/plugin-react': ^5.0.0
   '@vitest/coverage-istanbul': ^3.2.4
   autoprefixer: ^10.4.17
@@ -70,8 +70,8 @@ catalog:
   commander: ^14.0.1
   concurrently: ^9.1.0
   crypto-js: ^4.2.0
-  danger: 13.0.4
-  electron: 38.1.2
+  danger: 13.0.8
+  electron: 39.8.10
   electron-builder: 25.1.8
   electron-vite: 4.0.1
   esbuild: 0.25.4
@@ -92,11 +92,11 @@ catalog:
   js-flipper: ^0.273.0
   jsdom: ^26.0.0
   lottie-react: ^2.4.0
-  next: 14.2.35
+  next: 15.5.24
   nextra: ^3.0.13
   nextra-theme-docs: ^3.0.15
   node-hid: ^3.2.0
-  postcss: ^8.5.6
+  postcss: ^8.5.23
   prettier: 3.5.3
   purify-ts: 2.1.0
   react: 18.3.1
@@ -124,17 +124,17 @@ catalog:
   ts-node: 10.9.2
   tsc-alias: ^1.8.10
   tsx: 4.19.2
-  turbo: ^2.3.3
+  turbo: ^2.10.12
   typescript: 5.9.2
   typescript-eslint: 8.41.0
   url: ^0.11.4
   usb: ^2.16.0
   util: ^0.12.5
-  uuid: 11.0.3
-  vite: 7.1.6
+  uuid: 14.0.2
+  vite: 8.2.2
   vitest: 3.2.4
   vitest-react-native: ^0.1.5
-  ws: ^8.18.0
+  ws: ^8.21.3
   xstate: 5.19.2
   zx: 8.5.3
 
